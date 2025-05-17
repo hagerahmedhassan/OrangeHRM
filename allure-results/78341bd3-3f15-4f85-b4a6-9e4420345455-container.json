@@ -1,0 +1,1 @@
+{"uuid":"78341bd3-3f15-4f85-b4a6-9e4420345455","name":"tests.TestBase.cookies","children":["67b0c857-113b-463b-8807-f4ffbfcd5082"],"description":"","befores":[{"name":"cookies","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1747131685789,"stop":1747131686346}],"afters":[],"start":1747131685789,"stop":1747131686346}
